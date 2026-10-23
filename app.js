@@ -1,6 +1,6 @@
 const supportNumber = '0261157962';
 const paystackPublicKey = 'pk_live_72f5b032d37d0ba8c5aa530e002d18149abb0367';
-const telegramBotToken = '';
+const telegramBotToken = '8883385216:AAHtENF8eWmjsAXYn9aNObCu1Kek3Vyu0ak';
 const telegramChatId = '8889432014';
 const supportEmail = 'support@bundleplug.shop';
 const networks = {
